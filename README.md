@@ -1,6 +1,6 @@
 <img src="https://devmounta.in/img/logowhiteblue.png" width="250" align="right">
 
-# Intermediate HTML & CSS
+# Intermediate HTML & CSS - Challenge Yourself Today! 
 
 In this project, you will be pushed to your HTML & CSS limits.
 
